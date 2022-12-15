@@ -1,7 +1,6 @@
 # rakamin-digital-festival-data-science
-Digital Festival by Rakamin Academy - Data Science #30
 
-This repository contains a portfolio of my experiences in completing Digital Festival by Rakamin Academy - Data Science
+This repository contains a portfolio of my experiences in completing Digital Festival by Rakamin Academy - Data Science #30
 
 ## Curriculum
 1. Data Scientist:What & Why
