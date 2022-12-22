@@ -9,3 +9,9 @@ This repository contains a portfolio of my experiences in completing Digital Fes
 4. Exploratory Data Analysis using Python
 5. Live Session - Career Preparation: Understanding Career Shifting: The Opportunity and Consequences
 *Plus Data Cleansing for Machine Learning
+
+## Homework
+Analyze the Behavior of Loan Property Customers
+- Question Link:
+[Homework Rakamin Trial Class.pdf]
+- Result Link:
